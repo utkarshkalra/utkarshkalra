@@ -6,8 +6,6 @@
 
 <h3 align="left">A passionate Full-stack Developer from India</h3>
 
--  I’m currently learning **ReactJs**
-
 -  Ask me about **MERN stack**
 
 -  How to reach me **utkarshkalra.2001@gmail.com**
