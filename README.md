@@ -4,7 +4,7 @@
 <h2> Hello there fellow developers !!</h2> 
   <p>Here's a bit about myself</p>
 
-- Professionally, I am a Full-stack Developer with extensive experience in developing complex UIs, architecting robust APIs, and improving user experiences. Proficient in technologies such as React, Next.js, Node.js, Express.Js, .Net, SQL Server, and MongoDB.
+- Professionally, I am a Full-stack Developer with extensive experience in developing complex UIs, architecting robust APIs, and improving user experiences. Proficient in technologies such as React, Next.js, Node.js, Express.js, .Net, SQL Server, and MongoDB.
 
 - Outside of work, I have a passion for fitness, travelling, dancing, doodling, and indulging in delicious cuisine
 
